@@ -1,5 +1,6 @@
 # Machine Learning in Action
-
+说明：此 repository 来源于 apacheCN,为什么不fork，而要自己重新创建一个呢，1.万一有一天他们的repository被drop了呢，或者不公开了呢？2.其实我也可以完全自己重新创建，那会花费我大量的时间去整理代码，编辑 markdown 文档。所以感谢 apacheCN!
+此外简单说明一下各文件夹内容，其中 ebooks 存放 机器学习实战 电子书，没错就是你们知道的那本，中英文都有，中文版当然是扫描版，尽量选英文版看（清晰），codes 文件夹中存放机器学习各算法的 python 代码，算比较全面了，不过还是推荐去看 Scikit-learn 机器学习库的教程，inputDataset 文件夹存放了用来训练的简单的数据集。其他文件夹啥也没有，Please don't click!
 ## 第一部分  分类
 
 * 1.) [机器学习基础](./docs/1.机器学习基础.md)
