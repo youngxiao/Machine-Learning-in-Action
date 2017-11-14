@@ -3,7 +3,8 @@
 >* 1.) 万一有一天他们的 repository 被drop了呢，或者不公开了呢？
 >* 2.) 自己也可以完全自己重新创建，那会花费我大量的时间去整理代码，编辑 `markdown` 文档，没有太多时间，所以感谢 [apacheCN](https://github.com/apachecn)!
 
->此外简单说明一下各文件夹内容，其中 `/ebooks` 存放 机器学习实战 电子书，没错就是你们知道的那本，中英文都有，中文版当然是扫描版，尽量选英文版看（清晰），`/codes` 文件夹中存放机器学习各算法的 `python` 代码，算比较全面了，不过还是推荐去看 [Scikit-learn](http://scikit-learn.org/stable/tutorial/index.html) 机器学习库的教程，`/inputDataset` 文件夹存放了用来训练的简单的数据集。其他文件夹啥也没有，`Please don't click!`
+>此外:简单说明一下各文件夹内容:
+>* 1.) 文件夹`/ebooks` 存放 [机器学习实战](https://wenku.baidu.com/view/c191ee9e900ef12d2af90242a8956bec0975a525) 电子书，没错就是你们知道的那本，中英文都有，中文版当然是扫描版，尽量选英文版看（清晰），`/codes` 文件夹中存放机器学习各算法的 `python` 代码，算比较全面了，不过还是推荐去看 [Scikit-learn](http://scikit-learn.org/stable/tutorial/index.html) 机器学习库的教程，`/inputDataset` 文件夹存放了用来训练的简单的数据集。其他文件夹啥也没有，`Please don't click!`
 ## 第一部分  分类
 
 * 1.) [机器学习基础](./docs/1.机器学习基础.md)
@@ -34,15 +35,3 @@
 ## 第五部分  项目实战
 
 * 16.) [推荐系统](/docs/16.推荐系统.md)
-
-
-## [ApacheCN 组织翻译](http://www.apachecn.org/)
-
-> [kaggle: 机器学习竞赛](https://github.com/apachecn/kaggle)
-
-| 深度学习 | 机器学习  | 大数据 | 运维工具 |
-| --- | --- | --- | --- |
-| [TensorFlow R1.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030122) | [Sklearn 0.19 中文文档](http://sklearn.apachecn.org/) | [Spark 2.2.0和2.0.2 中文文档](http://spark.apachecn.org/) | [Zeppelin 0.7.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030467) |
-| pytorch 计划中 | [机器学习实战-教学版](https://github.com/apachecn/MachineLearning) | [Storm 1.1.0和1.0.1 中文文档](http://storm.apachecn.org/) | [Kibana 5.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=8159377) |
-| | [Beam 中文文档](http://beam.apachecn.org/) | [Kudu 1.4.0 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10813594) | |
-| | | [Elasticsearch 5.4 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=4260364) | |
